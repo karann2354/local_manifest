@@ -43,4 +43,11 @@
         <project path="system/core" name="system_core" remote="me" revision="thirteen" />
         <project path="device/qcom/sepolicy-legacy-um" name="android_device_qcom_sepolicy-legacy-um" remote="me" revision="thirteen" />
 	
+
+<!-- Extras -->
+
+	<project path="packages/apps/FMRadio" name="packages_apps_FMRadio" remote="me" revision="lineage-18.1" />
+        <project path="vendor/qcom/opensource/libfmjni" name="android_vendor_qcom_opensource_libfmjni" remote="me" revision="arrow-11.0" />
+	<project path="vendor/miuicamera" name="vendor_miuicamera" remote="me" revision="11.0" />
+
 </manifest>
